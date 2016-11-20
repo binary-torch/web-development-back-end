@@ -13,13 +13,13 @@
 ### installing
 ---
 1. installing php using Laragon(windows) / Xaamp(mac+windows+linux)
-2. isntalling text-editor/IDE (sublime/Atom/phpstorm)
+2. installing text-editor/IDE (sublime/Atom/phpstorm)
 
 ### HTML/CSS
 ---
 1. html basic file structure
 2. headers
-3. pargraphs
+3. paragraphs
 4. list
 5. images
 6. links
@@ -34,14 +34,14 @@
 
 ### CORE
 ---
-1. introducing variables and its usage, intro to concatinating concept
+1. introducing variables and its usage, intro to concatenation strings concept
 2. showing the difference between one (') and (")
 3. php with html simple implementation
 4. when we close php tag?
 5. accessing super global array to get key-value from the url, examples: $_GET, $_POST, $_SERVER
 
 #### variables
-#### Contditions
+#### Conditions
 #### Arrays
 #### Loops
 #### Functions
