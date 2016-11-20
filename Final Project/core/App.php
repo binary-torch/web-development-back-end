@@ -1,7 +1,8 @@
 <?php
 /*
-    App class, think about it it just a convenient way of storing some important objects or variables in our systems,
-    for example the query instance, configuration data..etc
+    App class, think about it it just a convenient way of storing 
+    some important objects or variables in our systems,
+    for example the query instance, config data..etc
 */
 class App{
     /*
