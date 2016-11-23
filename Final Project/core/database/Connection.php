@@ -6,7 +6,7 @@
 class Connection{
 	/*
     	we use the keyword "static" to say that this method we can use 
-        it even thow we don't have an instance of that class
+        it even though we don't have an instance of that class
     	example:
     	Connection::make($db); 
     	you may notice that we used (::) which represent that we're

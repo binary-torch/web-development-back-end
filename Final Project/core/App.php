@@ -22,7 +22,7 @@ class App{
         static::$content[$key] = $value;
     }
     /*
-        retrieve back any need information from the $content array
+        retrieve back any needed information from the $content array
     */
     public static function get($key){
         if(!array_key_exists($key, static::$content)){
