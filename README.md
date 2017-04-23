@@ -72,4 +72,13 @@
 #### Model Concept
 
 ---
+
+> Please leave your feedback about this workshop by filling up this forum:
+
+
+### https://goo.gl/forms/xN6dfDeg7bFzs3Mu2
+
+
+---
+
 > If you have any question or problem feel free to contact me at: [Facebook](https://www.facebook.com/salee2m1)
