@@ -1,4 +1,5 @@
-# Back-End Web Development Workshop
+# Binary Torch Sdn. Bhd.
+## Back-End Web Development Workshop
 
 ### Objectives
 
@@ -77,8 +78,3 @@
 
 
 ### https://goo.gl/forms/xN6dfDeg7bFzs3Mu2
-
-
----
-
-> If you have any question or problem feel free to contact me at: [Facebook](https://www.facebook.com/salee2m1)
