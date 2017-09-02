@@ -71,10 +71,3 @@
 #### Controller Concept
 #### Views Concept
 #### Model Concept
-
----
-
-> Please leave your feedback about this workshop by filling up this forum:
-
-
-### https://goo.gl/forms/xN6dfDeg7bFzs3Mu2
